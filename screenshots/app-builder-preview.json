@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Abhimanue Biju — Cybersecurity & Data Science",
+      "hasCanvas": false,
+      "bodyTextLen": 4922,
+      "bodyTextHash": "46cef8a8955d5da8eb543e0b92ab0ac1164803d2b4f2cbb454801f16c7a842bb",
+      "bodyTextPrefix": "AB Abhimanue Biju PORTFOLIO Home About Work Education Certs Cont",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Abhimanue Biju — Cybersecurity & Data Science",
+      "hasCanvas": false,
+      "bodyTextLen": 4699,
+      "bodyTextHash": "04295f22f16b1b17f06dbe851ff9edecdd94f453446a84cbd81c9744d34590bf",
+      "bodyTextPrefix": "AB Abhimanue Biju PORTFOLIO Open to work Hi, I'm Abhimanue Biju ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
